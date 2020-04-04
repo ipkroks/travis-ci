@@ -6,6 +6,6 @@ class HelloWord
 {
     public function say()
     {
-        return 'Hello, world!';
+        return 'Hello, world';
     }
 }
